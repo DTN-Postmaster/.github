@@ -6,6 +6,18 @@ It is modular, security-hardened DTN ecosystem implementing **BPv7 (RFC 9171)** 
 
 ---
 
+## Web Console Highlights
+
+| Station Overview | Interactive Chat |
+| :---: | :---: |
+| ![Station Overview](screenshots/station-overview.png) | ![Interactive Chat](screenshots/chat.png) |
+
+| SenML Telemetry (RFC 8428) | OPA / Rego Routing & Filtering |
+| :---: | :---: |
+| ![SenML Telemetry](screenshots/senml.png) | ![OPA / Rego Routing](screenshots/rego-routing.png) |
+
+---
+
 ## Ecosystem Repositories
 
 ### Core & Assembly
